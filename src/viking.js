@@ -68,7 +68,7 @@ class War {
   constructor() {
 
     this.vikingArmy = [];
-    this.saxonArmy = [];
+    this.saxonArmy = [ ];
   }
 
   addViking(viking) {
